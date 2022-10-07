@@ -28,6 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Missael's notes:
 
+## Links
+- https://www.npmjs.com/package/angular-notifier npm i angular-notifier
+
 ## Angular commands
 - `ng new serverapp`: **Create angular 'serverapp' application**
 - `ng g service service/server`: **Generate a service on service folder**
